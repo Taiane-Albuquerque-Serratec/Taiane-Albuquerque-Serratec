@@ -25,8 +25,15 @@
 ---
 
 ## 💡 Sobre mim
+Sou graduada em Administração de Empresas pela UNIFASE e me redescobri profissionalmente na área de tecnologia. Atualmente em transição de carreira, encontrei na tecnologia um propósito para criar soluções reais e acessíveis. Sou curiosa, proativa e gosto de trabalhar em equipe. Busco constantemente aprimorar minhas habilidades e contribuir para projetos com impacto positivo.
 
-Atualmente em transição de carreira, encontrei na tecnologia um propósito para criar soluções reais e acessíveis. Sou curioso, proativo e gosto de trabalhar em equipe. Busco constantemente aprimorar minhas habilidades e contribuir para projetos com impacto positivo.
+Recentemente concluí a formação como Desenvolvedor(a) Full Stack pela Residência em Software do Serratec, onde desenvolvi competências sólidas em lógica de programação, desenvolvimento web e mobile, bancos de dados relacionais e não relacionais, POO e construção de APIs RESTful.
+
+Utilizo tecnologias como Java (Spring Boot), JavaScript/TypeScript, React, Node.js e React Native, e ferramentas como Postman, Firebase, PostgreSQL, pgAdmin, Swagger (OpenAPI), GitHub, LetsView, Expo Go, entre outras.
+
+Tenho interesse em atuar como desenvolvedor backend, frontend ou full stack, contribuindo em projetos que busquem soluções eficientes e acessíveis por meio da tecnologia.
+
+Valorizo o trabalho em equipe, aprendizado contínuo e a busca constante por boas práticas de desenvolvimento. Estou aberto a novas oportunidades e conexões na área de tecnologia!
 
 ---
 
@@ -37,8 +44,6 @@ Atualmente em transição de carreira, encontrei na tecnologia um propósito par
 
 ---
 
-
-
 📫 **Vamos nos conectar?**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-albuquerque)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-albuquerque-78b029175)   
 ✉️ Email: taiane.albuquerque.1994@gmail.com 
